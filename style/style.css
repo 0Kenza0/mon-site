@@ -1,0 +1,16 @@
+.image1 {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.imgsolo {
+    margin: 10px;
+}
+
+.image2 {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
